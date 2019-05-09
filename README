@@ -1,0 +1,8 @@
+This version of coin compare lets you track your cryptocurrency portfolio, your profit/loss, total coins you own across different Indian exchanges.
+
+	1) Create an account ie., Register yourselves.
+	2) Add transactions that you done in different exchanges using 'Add' button.
+	3) Fill all the fields like price,exchange,type of coin,transaction date etc.
+	4) This adds a new record into the database against this transaction.
+	5) You can track your portfolio in your home page. 
+	6) The profit/loss is shown as both in rupees as well as percentage.  
